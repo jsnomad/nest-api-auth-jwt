@@ -14,18 +14,18 @@ Clone the repo then install dependencies :
 npm install
 ```
 
+Create .env file :
+
+```bash
+cp .env.example .env
+```
+
 ### Start
 
 Run the following command to start the HTTP server (dev mode).
 
 ```bash
 npm start
-```
-
-Create .env file :
-
-```bash
-cp .env.example .env
 ```
 
 ### Swagger Documentation
